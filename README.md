@@ -1,5 +1,12 @@
 # 1024-simple-things
-The web app is just 1024 simple things to do
+One day I've read on warsztat.gd that `to create a game you just need to implement 2000 simple things`. While web applications are less complex than games, there is still a long way to go from `git init` to production.
+
+Therefore, I paraphrase this sentence into:
+
+`The web app is just 1024 simple things to do.`
+
+This repository is a guide for web app decomposition. To help us detect incorrect time estimates early, and warn us when we plan to fly too close to the sun.
+It starts as single README file, but it may be divided into Wiki pages in the future.
 
 ## Administrator Dashboard
 - authentication
