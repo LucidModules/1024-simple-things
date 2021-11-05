@@ -27,3 +27,8 @@ It starts as single README file, but it may be divided into Wiki pages in the fu
 
 ## Mailing
 - integration with 3rd party mailing provider
+
+## Navigation
+- menu
+- breadcrumbs
+- footer links
