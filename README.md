@@ -25,6 +25,9 @@ It starts as single README file, but it may be divided into Wiki pages in the fu
 - 2FA
 - Social Login
 
+## Contact form
+- register custom domain
+
 ## Mailing
 - integration with 3rd party mailing provider
 
