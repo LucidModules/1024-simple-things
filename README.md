@@ -30,6 +30,7 @@ It starts as single README file, but it may be divided into Wiki pages in the fu
 
 ## Mailing
 - integration with 3rd party mailing provider
+- embedded SVG might not be rendered properly - use base64 or provide a link to the image
 
 ## Navigation
 - menu
