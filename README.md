@@ -36,3 +36,14 @@ It starts as single README file, but it may be divided into Wiki pages in the fu
 - menu
 - breadcrumbs
 - footer links
+
+## SEO
+- remove duplicate content for paginated listings (e.g. &page=1)
+
+## Performance
+- lazy loading images
+- image compression
+- modern image formats (webp, avif)
+- defer/async JS
+- HTTP2
+- gzip/brotli compression
