@@ -24,6 +24,8 @@ It starts as single README file, but it may be divided into Wiki pages in the fu
 - password recovery
 - 2FA
 - Social Login
+  - button design compliant with the social login provider's requirements
+  - verification process requested by provider
 
 ## Contact form
 - register custom domain
